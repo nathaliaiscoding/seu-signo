@@ -1,0 +1,31 @@
+C:/Users/nathalia/source/repos/HoroscopoConsole/bin/Debug/net5.0/HoroscopoConsole.exe
+C:/Users/nathalia/source/repos/HoroscopoConsole/bin/Debug/net5.0/HoroscopoConsole.deps.json
+C:/Users/nathalia/source/repos/HoroscopoConsole/bin/Debug/net5.0/HoroscopoConsole.runtimeconfig.json
+C:/Users/nathalia/source/repos/HoroscopoConsole/bin/Debug/net5.0/HoroscopoConsole.runtimeconfig.dev.json
+C:/Users/nathalia/source/repos/HoroscopoConsole/bin/Debug/net5.0/HoroscopoConsole.dll
+C:/Users/nathalia/source/repos/HoroscopoConsole/bin/Debug/net5.0/ref/HoroscopoConsole.dll
+C:/Users/nathalia/source/repos/HoroscopoConsole/bin/Debug/net5.0/HoroscopoConsole.pdb
+C:/Users/nathalia/source/repos/HoroscopoConsole/obj/Debug/net5.0/HoroscopoConsole.csproj.AssemblyReference.cache
+C:/Users/nathalia/source/repos/HoroscopoConsole/obj/Debug/net5.0/HoroscopoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/nathalia/source/repos/HoroscopoConsole/obj/Debug/net5.0/HoroscopoConsole.AssemblyInfoInputs.cache
+C:/Users/nathalia/source/repos/HoroscopoConsole/obj/Debug/net5.0/HoroscopoConsole.AssemblyInfo.cs
+C:/Users/nathalia/source/repos/HoroscopoConsole/obj/Debug/net5.0/HoroscopoConsole.csproj.CoreCompileInputs.cache
+C:/Users/nathalia/source/repos/HoroscopoConsole/obj/Debug/net5.0/HoroscopoConsole.dll
+C:/Users/nathalia/source/repos/HoroscopoConsole/obj/Debug/net5.0/ref/HoroscopoConsole.dll
+C:/Users/nathalia/source/repos/HoroscopoConsole/obj/Debug/net5.0/HoroscopoConsole.pdb
+C:/Users/nathalia/source/repos/HoroscopoConsole/obj/Debug/net5.0/HoroscopoConsole.genruntimeconfig.cache
+/Users/NathaliaLaudano/Library/Mobile Documents/com~apple~CloudDocs/Programação/Projects/HoroscopoConsole/bin/Debug/net5.0/HoroscopoConsole.deps.json
+/Users/NathaliaLaudano/Library/Mobile Documents/com~apple~CloudDocs/Programação/Projects/HoroscopoConsole/bin/Debug/net5.0/HoroscopoConsole.runtimeconfig.json
+/Users/NathaliaLaudano/Library/Mobile Documents/com~apple~CloudDocs/Programação/Projects/HoroscopoConsole/bin/Debug/net5.0/HoroscopoConsole.runtimeconfig.dev.json
+/Users/NathaliaLaudano/Library/Mobile Documents/com~apple~CloudDocs/Programação/Projects/HoroscopoConsole/bin/Debug/net5.0/HoroscopoConsole.dll
+/Users/NathaliaLaudano/Library/Mobile Documents/com~apple~CloudDocs/Programação/Projects/HoroscopoConsole/bin/Debug/net5.0/ref/HoroscopoConsole.dll
+/Users/NathaliaLaudano/Library/Mobile Documents/com~apple~CloudDocs/Programação/Projects/HoroscopoConsole/bin/Debug/net5.0/HoroscopoConsole.pdb
+/Users/NathaliaLaudano/Library/Mobile Documents/com~apple~CloudDocs/Programação/Projects/HoroscopoConsole/obj/Debug/net5.0/HoroscopoConsole.csproj.AssemblyReference.cache
+/Users/NathaliaLaudano/Library/Mobile Documents/com~apple~CloudDocs/Programação/Projects/HoroscopoConsole/obj/Debug/net5.0/HoroscopoConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/NathaliaLaudano/Library/Mobile Documents/com~apple~CloudDocs/Programação/Projects/HoroscopoConsole/obj/Debug/net5.0/HoroscopoConsole.AssemblyInfoInputs.cache
+/Users/NathaliaLaudano/Library/Mobile Documents/com~apple~CloudDocs/Programação/Projects/HoroscopoConsole/obj/Debug/net5.0/HoroscopoConsole.AssemblyInfo.cs
+/Users/NathaliaLaudano/Library/Mobile Documents/com~apple~CloudDocs/Programação/Projects/HoroscopoConsole/obj/Debug/net5.0/HoroscopoConsole.csproj.CoreCompileInputs.cache
+/Users/NathaliaLaudano/Library/Mobile Documents/com~apple~CloudDocs/Programação/Projects/HoroscopoConsole/obj/Debug/net5.0/HoroscopoConsole.dll
+/Users/NathaliaLaudano/Library/Mobile Documents/com~apple~CloudDocs/Programação/Projects/HoroscopoConsole/obj/Debug/net5.0/ref/HoroscopoConsole.dll
+/Users/NathaliaLaudano/Library/Mobile Documents/com~apple~CloudDocs/Programação/Projects/HoroscopoConsole/obj/Debug/net5.0/HoroscopoConsole.pdb
+/Users/NathaliaLaudano/Library/Mobile Documents/com~apple~CloudDocs/Programação/Projects/HoroscopoConsole/obj/Debug/net5.0/HoroscopoConsole.genruntimeconfig.cache
